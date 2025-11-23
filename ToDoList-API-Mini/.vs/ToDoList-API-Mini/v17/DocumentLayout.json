@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven\\Desktop\\OFFICIAL_PROJECTS\\ToDoList-API-Mini\\ToDoList-API-Mini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA43B5-570C-430A-9898-0D51260E34B2}|ToDoList-API-Mini.csproj|c:\\users\\steven\\desktop\\official_projects\\todolist-api-mini\\todolist-api-mini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA43B5-570C-430A-9898-0D51260E34B2}|ToDoList-API-Mini.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA43B5-570C-430A-9898-0D51260E34B2}|ToDoList-API-Mini.csproj|c:\\users\\steven\\desktop\\official_projects\\todolist-api-mini\\todolist-api-mini\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA43B5-570C-430A-9898-0D51260E34B2}|ToDoList-API-Mini.csproj|solutionrelative:controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\OFFICIAL_PROJECTS\\ToDoList-API-Mini\\ToDoList-API-Mini\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\OFFICIAL_PROJECTS\\ToDoList-API-Mini\\ToDoList-API-Mini\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:31:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoListController.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\OFFICIAL_PROJECTS\\ToDoList-API-Mini\\ToDoList-API-Mini\\Controllers\\ToDoListController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToDoListController.cs",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\OFFICIAL_PROJECTS\\ToDoList-API-Mini\\ToDoList-API-Mini\\Controllers\\ToDoListController.cs",
+              "RelativeToolTip": "Controllers\\ToDoListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:30:50.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
